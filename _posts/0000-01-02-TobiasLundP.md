@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+BY ALL, DON'T USE A HAMMER
 Use the left arrow to go back!
